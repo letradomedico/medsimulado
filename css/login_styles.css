@@ -1,0 +1,31 @@
+*{
+    font-family: 'verdana';
+}
+
+body{
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+span#spanAlinhamentoVertical{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+div#divPrincipal{
+    position: relative;
+    height: 640px;
+}
+
+img#imgBackground{
+    height: 90%;
+    vertical-align: middle;
+    box-shadow: 5px 5px 13px 10px #444444;
+}
+
+div#divFormLogin{
+    position: absolute;
+    top: 240px;
+    left: 560px;
+}
